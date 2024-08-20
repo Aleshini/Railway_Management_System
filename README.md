@@ -51,7 +51,9 @@ Main Menu Options:
 File Paths:
 
    1.user_data.txt: Stores user account information.
+   
    2.customer_details.txt: Logs details of booked tickets.
+   
    3.ticket_id.txt: Tracks the last used ticket ID to ensure unique ticket generation.
 
 ## Contributing
