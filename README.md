@@ -38,16 +38,16 @@ New users can sign up by providing their username, password, and personal detail
 Existing users can log in using their credentials.
 - Main Menu Options:
 
-Check Seat Availability: Displays the number of seats available for booking.
-Book Ticket: Allows users to book tickets by entering the number of tickets, customer details, and selecting the coach type.
-Cancel Ticket: Users can cancel a booking by providing the ticket ID.
-Logout: Logs out the current user and returns to the login/signup menu.
-Exit: Exits the system.
+ -Check Seat Availability: Displays the number of seats available for booking.
+ -Book Ticket: Allows users to book tickets by entering the number of tickets, customer details, and selecting the coach type.
+ -Cancel Ticket: Users can cancel a booking by providing the ticket ID.
+ -Logout: Logs out the current user and returns to the login/signup menu.
+ -Exit: Exits the system.
 - File Paths:
 
-user_data.txt: Stores user account information.
-customer_details.txt: Logs details of booked tickets.
-ticket_id.txt: Tracks the last used ticket ID to ensure unique ticket generation.
+ -user_data.txt: Stores user account information.
+ -customer_details.txt: Logs details of booked tickets.
+ -ticket_id.txt: Tracks the last used ticket ID to ensure unique ticket generation.
 
 ## Contributing
 If you'd like to contribute to this project, please fork the repository, make your changes, and create a pull request with a detailed description of your contributions.
