@@ -32,18 +32,18 @@ cd Railway_Reservation_System
 python railway_reservation.py
 ```
 ## Usage
-- User Signup and Login:
+User Signup and Login:
 
 New users can sign up by providing their username, password, and personal details.
 Existing users can log in using their credentials.
-- Main Menu Options:
+Main Menu Options:
 
 1.Check Seat Availability: Displays the number of seats available for booking.
 2.Book Ticket: Allows users to book tickets by entering the number of tickets, customer details, and selecting the coach type.
 3.Cancel Ticket: Users can cancel a booking by providing the ticket ID.
 4.Logout: Logs out the current user and returns to the login/signup menu.
 5.Exit: Exits the system.
-- File Paths:
+File Paths:
 
    1.user_data.txt: Stores user account information.
    2.customer_details.txt: Logs details of booked tickets.
